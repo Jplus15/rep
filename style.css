@@ -17,7 +17,7 @@ a:hover {
 }
 
 a.nav-link {
-    color: #4151b5;
+    color: #;
 }
 
 .nav-item {
@@ -29,7 +29,7 @@ iframe {
 }
 
 option:disabled {
-    background: red;
+    background: FEC009;
     color: #fff;
 }
 
@@ -1159,8 +1159,8 @@ video::-webkit-media-text-track-display {
 }
 
 #btnServer:hover {
-    background-color: #3f51b5;
-    border-color: #3f51b5;
+    background-color: #;
+    border-color: #;
 }
 
 #btnServer img {
